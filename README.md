@@ -1,4 +1,4 @@
-👋Hallo, ich bin Ivan!<br>
+👋Hello, i'm Ivan!<br>
 Kemerovo, Russia. <br>
 ✨want to learn c++ and python <br>
 
