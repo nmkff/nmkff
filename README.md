@@ -1,6 +1,7 @@
 👋Hallo, ich bin Ivan!
-🇷🇺Kemerovo, Russia. 
-want to learn c++ and python
+
+🇷🇺 Kemerovo, Russia. <br>
+want to learn c++ and python <br>
 
 yo
 
